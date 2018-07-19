@@ -63,7 +63,7 @@ Se esse comando falhar, você deve ter uma versão antiga do Vagrant, e ela obri
 
 #### Clonando o Repositório do Homestead
 
-Você pode isntalar o Homestead simplesmente clonando o repositório. Considere cloná-lo em uma pasta chamanda `Homestead` no diretório do seu usuário, assim o Homestead Box servirá como hospedeiro de todas os seus projetos Laravel:
+Você pode instalar o Homestead simplesmente clonando o repositório. Considere cloná-lo em uma pasta chamanda `Homestead` no diretório do seu usuário, assim o Homestead Box servirá como hospedeiro de todas os seus projetos Laravel:
 
 	git clone https://github.com/laravel/homestead.git Homestead
 
